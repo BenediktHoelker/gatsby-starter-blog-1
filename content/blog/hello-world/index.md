@@ -1,21 +1,14 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Eureka!
+date: "2019-02-10T09:25:14.800Z" 
 ---
 
-This is my first post on my new fake blog! How exciting!
+Welcome to my new Blog! I am very excited to be writing about web development, technologies and daily experiences. This blog shall be a source of information and a memory aid for my sometimes way too easily distracted mind. 
 
-I'm sure I'll write a lot more interesting things in the future.
+I find that the way I work has changed in the last two years after finishing my studies at university. Like then my most important task is to be learning and progressing every day. Yet, while at university the learning process was defined by clearly structured documents, it is now defined by a ton of material which is spread throughout the internet. Even though I feel that I am progressing much quicker now, I still feel the need to structure myself more.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+The mental model I have in mind for learning is being a machine that collects data and information, puts it in context, makes a realization and afterwards starts again. Sometimes I fear to already forget the realizations I made yesterday. Most probably a blog will help me to cement them and to be progressing more effectively.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+This blog aims at providing structure by forcing me to write down what I learned. I want to be writing regurlarly about the realizations I made. Or, as my programming-teacher at university once put it: 
 
-![Chinese Salty Egg](./salty_egg.jpg)
+> May your future careers be full of Eureka-moments!
